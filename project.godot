@@ -1,0 +1,11 @@
+[gd_project_settings]
+config_version=4
+
+[application]
+
+config/name="Shattered Star"
+run/main_scene="res://scenes/Main.tscn"
+
+[rendering]
+
+quality/intended_usage/framebuffer_allocation=2
