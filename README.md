@@ -1,8 +1,8 @@
 # Shattered Star
 
-A top-down online multiplayer dungeon crawler built in Godot 4.
+This project will become a top-down online multiplayer dungeon crawler built in Godot 4.
 
-## Features
+## Features (Work in progress)
 
 - Online co-op for 2–4 players (ENet-based networking)
 - Holy trinity class structure (Tank, DPS, Healer)
@@ -15,5 +15,3 @@ A top-down online multiplayer dungeon crawler built in Godot 4.
 2. Run `Main.tscn`.
 3. Use `NetworkManager.gd` to host or join a game.
 4. Players spawn automatically with `MultiplayerSpawner.gd`.
-
-Built with ❤️ by Johan and ChatGPT.
