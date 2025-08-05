@@ -1,6 +1,6 @@
 # Shattered Star
 
-This project will become a top-down online multiplayer dungeon crawler built in Godot 4.
+This project will become a top-down online multiplayer dungeon crawler built in Unity.
 
 ## Features (Work in progress)
 

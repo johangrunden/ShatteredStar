@@ -1,4 +1,0 @@
-[gd_scene load_steps=2 format=3]
-
-[node name="Enemy" type="CharacterBody2D"]
-script = preload("res://enemy/Enemy.gd")
